@@ -34,7 +34,7 @@ The following files are included in this repository:
 </p>
 <br>
 
-The data was analyzed using a variety of methods, including descriptive statistics, and hypothesis testing. Descriptive statistics were used to summarize the data and identify key trends. Hypothesis testing was used to test the relationship between different variables, such as the price of the room, days in waiting list and the cancellation rate.
+The data was analyzed using a variety of methods, including descriptive statistics, and hypothesis testing. **Descriptive statistics** were used to summarize the data and identify key trends. **Hypothesis testing** was used to test the relationship between different variables, such as the price of the room, days in waiting list and the cancellation rate.
 
 * The project begins by importing the necessary libraries and loading the hotel booking dataset into a Pandas DataFrame. 
 
