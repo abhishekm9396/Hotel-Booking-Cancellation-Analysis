@@ -52,9 +52,6 @@ Here's a sneak peek at some captivating visualizations produced during the analy
   <img src="https://user-images.githubusercontent.com/126942017/258202417-0ae69705-107a-4c6f-8781-1dfbb49454ec.png" width="440" >
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/126942017/258202865-dcdf5e3a-65b3-4a05-b6b5-d46bfffd1e60.png" width="370" >
-</p>
-<p align="left">
   <img src="https://user-images.githubusercontent.com/126942017/258202935-fc00471e-83ae-4c8b-96ef-adcdca2a6599.png" width="550" >
 </p>
 <p align="left">
